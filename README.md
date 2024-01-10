@@ -10,4 +10,4 @@ The aim of this project is to write a code in C which recreate a game similar to
 
 To realise the program I used a variation of a Binary Search Tree (BST) where every node is linked to another node generating a dinamic array inside the tree. In this way I can find in O(logn) every element with a general search, at the same time I can keep the array ordered in O(1) time and print the elements in the same time.
 
-Final vote 30L/30
+Final grade 30L/30
